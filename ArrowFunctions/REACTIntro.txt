@@ -1,0 +1,53 @@
+REACT
+-javascript library
+
+- it is used to create SPA
+- it is used to create reusable UI components
+- components : every object on the screen
+- components : state and props
+- Learn Once write anywhere
+
+Features :
+
+- JSX -> Javascript XML
+  HTML syntax in ur js file
+- Virtual DOM -> improve performance -> only re- render the updated component/portion instead of reloading the whole page
+
+-Component based
+-One way data binding
+
+Why react?
+
+- It is used for building reusable UI components : reusability
+- It is used for building Single Page Applications : SPA
+  Mobile apps - React native
+  -Community support
+  -Performance
+  -Cross Platform
+
+1. Install Node js
+   : go to browser : search for Install Node js
+   : download and install it
+   : it will have npm by default in it
+   : npm stands for node package manager
+
+check :
+terminal : write
+node --version
+npm --version
+
+2. React Developer Tools : Add to chrome
+
+3. Vs extensions :
+
+- React
+- React Snippets
+- ThunderClient
+- Prettier
+- Live Server
+- Auto rename tag
+- Bracket Color
+
+3. Create our first react app
+   create a folder
+   open terminal , go to the same directory
